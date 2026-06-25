@@ -2,8 +2,9 @@
 
 A new Flutter project.
 
-![Tracks](screenshots/tracks.jpg)
-![Settings](screenshots/settings.jpg)
+<img src="screenshots/tracks.jpg" alt="Tracks view" width="120">
+<img src="screenshots/settings.jpg" alt="Settings view" width="120">
+
 
 ## Getting Started
 
