@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+!(screenshots/tracks.jpg)
+!(screenshots/settings.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
