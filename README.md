@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-!(screenshots/tracks.jpg)
-!(screenshots/settings.jpg)
+![Tracks](screenshots/tracks.jpg)
+![Settings](screenshots/settings.jpg)
 
 ## Getting Started
 
