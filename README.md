@@ -2,8 +2,9 @@
 
 A new Flutter project.
 
-<img src="screenshots/tracks.jpg" alt="Tracks view" width="240">
-<img src="screenshots/settings.jpg" alt="Settings view" width="240">
+<img src="screenshots/tracks.jpg" alt="Tracks view" width="280">
+<img src="screenshots/track.jpg" alt="Track view" width="280">
+<img src="screenshots/settings.jpg" alt="Settings view" width="280">
 
 
 ## Getting Started
